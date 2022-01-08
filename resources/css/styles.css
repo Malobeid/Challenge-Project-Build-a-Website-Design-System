@@ -125,6 +125,11 @@ nav {
 body{
     margin: auto;
     background-color: lightgrey;
+    
+}
+
+main{
+    padding: 2px 60px 2px 2px;
 }
 
 .text-styles-heading {
